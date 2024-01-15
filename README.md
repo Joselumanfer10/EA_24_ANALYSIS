@@ -4,9 +4,9 @@
 Este proyecto realiza un análisis de datos sobre los jugadores del juego FIFA 24. Se exploran diversas estadísticas, como habilidades, posiciones y puntuaciones, con el objetivo de proporcionar información detallada sobre los jugadores y sus características en el juego.
 
 ## Estructura del Repositorio 📊 
-- **data/**: Contiene los conjuntos de datos utilizados en el análisis.
-- **notebooks/**: Contiene Jupyter Notebooks utilizados para el análisis.
-- **images/**: Almacena gráficos y visualizaciones generados durante el análisis.
+- **notebook/**: FIFA.ipynb Contiene el Jupyter Notebook utilizado para el analisis de datos.
+- **data/**: JUGADORES.csv Contiene la base de de datos utilizado en el análisis.
+- **imagenes/**: Almacena gráficos y visualizaciones generados durante el análisis.
 - **README.md**: Documentación principal del proyecto.
 
 ## Instrucciones de Uso
@@ -24,4 +24,4 @@ El análisis finaliza con una mejora cuantiosa de cada posición del campo en co
 
 ## Contacto ✉️
 
-Si tienes preguntas o comentarios, puedes contactarme en joselu10.manfer@gmail.com.
+Si tienes preguntas o comentarios, puedes contactarme en joselu10.manfer@gmail.com o en mi linkedin www.linkedin.com/in/joselumf
